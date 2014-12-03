@@ -1,5 +1,4 @@
 SCB-Test-Project
 ================
 
-Hi Norman,
-Please help to resolve issue STP-1
+Please help to resolve issue Learning STP-1
